@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="mode">Day</string>
+    <string name="desc">
+      <b>The description of The Weather App</b>\n
+• The Weather App for Android is your best option for getting accurate weather information. \n
+• Make confident decisions, whether you are planning for the day.\n
+• The entire week, We’ve improved the app so that it runs faster.\n
+
+\n<b>FAST  INTUITIVE WEATHER FORECASTS:</b>\n
+• Small Download: Don’t waste storage space on your phone with a huge weather app\n
+• Improved Speed: Get the weather information you need faster than ever before.\n
+• Beautiful Design: Navigate the app quickly and smoothly with clean interfaces designed for Android devices.\n
+• Intuitive Forecast Graphs: Know weather for the next hour, to the next 3 days, with new and improved weather forecast graphs.\n
+
+\n<b> KNOW THE WEATHER ANYWHERE, RIGHT NOW</b>\n
+•Weather Map: Fast-loading radar map allows you to quickly see any precipitation in your area, including rain, sleet, and snow.\n
+• Current Conditions: See “feels like” temperature, heat index, wind speed, and more.\n
+• Forecasts: Hourly, daily, weekly, weather forecasts.\n
+• Track and read detailed weather information from multiple locations around the world.\n
+
+\n<b>About Us</b>\n
+• We are key-soft team. \n
+• Build weather app. We are four member.\n
+• Team leader S____
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

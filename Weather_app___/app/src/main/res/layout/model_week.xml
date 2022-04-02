@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/idMWdate"
+        android:layout_width="43dp"
+        android:layout_height="23dp"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:text="Date 25th"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/idMWImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:src="@drawable/logo" />
+
+
+    <ImageView
+        android:layout_width="5dp"
+        android:layout_height="25dp"
+        android:layout_weight="1"
+        android:src="@drawable/min_temperature" />
+
+    <TextView
+        android:id="@+id/idMWMaxTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="min : "
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:layout_width="5dp"
+        android:layout_height="25dp"
+        android:layout_weight="1"
+        android:src="@drawable/max_temperature" />
+
+    <TextView
+        android:id="@+id/idMWMinTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="max : "
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+    <!--    </LinearLayout>-->
+</LinearLayout>

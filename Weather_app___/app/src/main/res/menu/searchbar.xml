@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/searchIcon"
+        android:title="search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/darkModeSwitch"
+        android:title="Dark"
+        app:actionViewClass="android.widget.Switch"
+        app:showAsAction="always" />
+</menu>
+<!--    android:icon="@drawable/ic_search"-->
+<!--    app:showAsAction="collapseActionView" />
+show : then title click on tile show toggle
+-->
