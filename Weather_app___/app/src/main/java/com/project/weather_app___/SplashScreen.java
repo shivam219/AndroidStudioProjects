@@ -40,6 +40,7 @@ public class SplashScreen extends AppCompatActivity {
                 }
             });
             t1.start();
+            
 //            try {
 //                Thread.sleep(500);
 //            } catch (InterruptedException e) {
