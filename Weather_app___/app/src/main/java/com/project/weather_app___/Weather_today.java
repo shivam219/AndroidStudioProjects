@@ -185,12 +185,14 @@ public class Weather_today extends Fragment {
             switch (code) {
                 case 1000:
                 case 1003:
-                    backgroudImage.setBackgroundResource(R.drawable.dayclear);
-                    break;
                 case 1006:
                 case 1009:
-                    backgroudImage.setBackgroundResource(R.drawable.partycloud);
+                    backgroudImage.setBackgroundResource(R.drawable.dayclear);
                     break;
+            /*    case 1006:
+                  case 1009:
+                    backgroudImage.setBackgroundResource(R.drawable.partycloud);
+                    break;*/
                 case 1030:
                 case 1063:
                 case 1066:

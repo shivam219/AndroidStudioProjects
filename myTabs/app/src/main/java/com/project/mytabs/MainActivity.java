@@ -18,9 +18,12 @@ import android.view.MenuItem;
 import android.widget.CompoundButton;
 import android.widget.SearchView;
 import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
+
+import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 

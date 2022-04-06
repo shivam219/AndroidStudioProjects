@@ -52,7 +52,7 @@ public class News_Today extends Fragment {
 
         news_rv = rootView.findViewById(R.id.id_news_rv);
         newsAdapter = new NewsAdapter(getContext(), newsModelArrayList);
-        news_rv.setAdapter(newsAdapter);
+        news_rv.setAdapter(newsAdapter );
 
         swipeRefreshLayout = rootView.findViewById(R.id.idswipelayoutNews);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
